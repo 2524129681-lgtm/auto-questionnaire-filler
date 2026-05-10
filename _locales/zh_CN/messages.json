@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "问卷助手",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "一键自动填写问卷 - LLM 驱动的问卷自动填写助手",
+    "description": "Extension description"
+  }
+}
